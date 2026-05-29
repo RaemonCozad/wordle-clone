@@ -8,11 +8,7 @@ A fully functional Wordle clone built with vanilla HTML, CSS, and JavaScript —
 
 ## 📸 Preview
 
-<!-- Add a screenshot or GIF here -->
-<!-- Tip: Record a short GIF using ScreenToGif (Windows) or Kap (Mac) and drag it into this section on GitHub -->
-
 <img width="977" height="939" alt="WordleAnimation" src="https://github.com/user-attachments/assets/c12aaaa8-2471-4cdc-b542-c1482ce14fef" />
-
 
 ---
 
