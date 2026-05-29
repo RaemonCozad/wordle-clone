@@ -2,7 +2,7 @@
 
 A fully functional Wordle clone built with vanilla HTML, CSS, and JavaScript — no frameworks, no dependencies, no build tools.
 
-🔗 **[Play it live →]([https://raemoncozad.github.io/wordle-clone/wordle.html].)**
+🔗 **[Play it live →]([https://raemoncozad.github.io/wordle-clone/].)**
 
 ---
 
