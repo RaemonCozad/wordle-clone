@@ -11,8 +11,8 @@ A fully functional Wordle clone built with vanilla HTML, CSS, and JavaScript —
 <!-- Add a screenshot or GIF here -->
 <!-- Tip: Record a short GIF using ScreenToGif (Windows) or Kap (Mac) and drag it into this section on GitHub -->
 
-![Wordle Clone Gif](<img width="977" height="939" alt="WordleAnimation" src="https://github.com/user-attachments/assets/dd6bc482-246e-4991-b14a-be29f6cac14f" />
-)
+<img width="977" height="939" alt="WordleAnimation" src="https://github.com/user-attachments/assets/c12aaaa8-2471-4cdc-b542-c1482ce14fef" />
+
 
 ---
 
